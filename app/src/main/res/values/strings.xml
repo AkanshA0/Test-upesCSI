@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Upes CSI</string>
+    <string name="facebook_app_id">1303933753107188</string>
+    <string name="fb_login_protocol_scheme">fb1303933753107188</string>
+</resources>
